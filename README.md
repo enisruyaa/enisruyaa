@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enis Rüya</h1>
-<h3 align="center">Passionate back-end developer from Türkiye</h3>
+<h3 align="center">Passionate Back-end Developer From Turkey</h3>
 
 - 🔭 I’m currently working on **.NET**
 
